@@ -1,2 +1,2 @@
 print("Hello there!")
-Print("changes made now")
+print("changes made now")
